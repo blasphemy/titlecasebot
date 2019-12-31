@@ -1,0 +1,5 @@
+.env
+scripts/
+titlecasebot
+titlecasebot.tar.gz
+tmp
